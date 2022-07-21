@@ -1,7 +1,7 @@
 ---
 blocks:
   - tagline: Do stuff
-    headline: "Merry Xmas \U0001F385"
+    headline: "Welcome staging"
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
