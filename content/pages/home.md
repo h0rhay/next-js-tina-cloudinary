@@ -1,6 +1,7 @@
 ---
 blocks:
-  - headline: Welcome to the Tina Starter
+  - tagline: Do stuff
+    headline: Welcome Nataliya
     text: >
       This project is set up to show you the basics of working with Tina. You're
       looking at the landing page, which pulls content from
